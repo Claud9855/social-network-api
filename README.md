@@ -15,7 +15,7 @@
 
 # Walkthrough
 --------------
-- Click the [link]() to see the walkthrough video
+- Click the [link](https://drive.google.com/file/d/1D5aN6WxQBPUOBc2rHa2_gJchN3GO0PFK/view) to see the walkthrough video
 
 # Screenshots
 --------------
